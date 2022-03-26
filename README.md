@@ -1,5 +1,7 @@
-### Hi there 👋
+# Hi There! 👋
+**My name is Howe** aka xi4oh4o in elsewhere, now living in Zhengzhou, China. - I'm a fullstack developer and operation and maintenance engineer.
 
+[![My Skills](https://skillicons.dev/icons?i=vim,ts,linux,laravel,rails,nextjs,tailwind,py,regex,wasm,aws,kubernetes,cloudflare,nginx,md&theme=dark)](https://xhs.me)
 <!--
 **xi4oh4o/xi4oh4o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
