@@ -1,5 +1,5 @@
 # Hi There! 👋
-**My name is Howe** aka xi4oh4o in elsewhere, now living in Zhengzhou, China. - I'm a fullstack developer and operation and maintenance engineer.
+**My name is Howe** aka xi4oh4o in elsewhere, now living in Zhengzhou, China. - I'm a no stack developer🤣 and operation and maintenance engineer.
 
 [![My Skills](https://skillicons.dev/icons?i=vim,ts,linux,laravel,rails,nextjs,tailwind,py,regex,wasm,aws,kubernetes,cloudflare,nginx,md&theme=dark)](https://github.com/xi4oh4o)
 <!--
